@@ -1,2 +1,13 @@
-node_modules
-dist
+.cache/
+coverage/
+node_modules/*
+dist/*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
